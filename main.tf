@@ -18,7 +18,7 @@ resource "aws_vpc" "myapp-vpc" {
 }
 
 resource "aws_subnet" "myapp-subnet-1" {
-    vpc_id = aws_vpc.development-vpc.id
+    vpc_id = aws_vpc.myapp-vpc.id
     cidr_block = var.cidr_blocks[1].cidr_block
     availability_zone = var.avail_zone
     tags = {
