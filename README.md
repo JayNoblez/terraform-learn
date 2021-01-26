@@ -1,3 +1,19 @@
+## Pre-Requisites for Udemy Course to follow along
+- Code Editor, where we write TF Configuration Code e.g. Visual Studio Code: https://code.visualstudio.com/download
+- Account on GitlLab, because Terraform's Configuration Code is hosted on GitLab
+- An AWS Account, because we are automating AWS infrastructure with Terraform
+
+
+## Useful Links
+- Code Editor, e.g. Visual Studio Code: https://code.visualstudio.com/download
+- Installation Guide for Terraform: https://learn.hashicorp.com/tutorials/terraform/install-cli
+- Installation Guides for AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
+- Guide of how to create an AWS Account: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+- AWS 1-Year Free Tier information: https://aws.amazon.com/free
+
+
+## Commands used in the Course
+
 ### initialize
 
     terraform init
