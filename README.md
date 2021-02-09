@@ -1,5 +1,5 @@
 ## This project belongs to a Udemy Course
-(Complete Terraform Course - Beginner to Advanced [2021])[https://www.youtube.com/watch?v=m3cKkYXl-8o&ab_channel=TechWorldwithNana]
+(Complete Terraform Course - Beginner to Advanced 2021) [https://www.youtube.com/watch?v=m3cKkYXl-8o&ab_channel=TechWorldwithNana]
 
 ## Pre-Requisites for Udemy Course to follow along
 - Code Editor, where we write TF Configuration Code e.g. Visual Studio Code: https://code.visualstudio.com/download
