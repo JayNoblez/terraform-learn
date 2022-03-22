@@ -15,6 +15,12 @@
 - Installation Guides for AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html (not needed until "Environment Variable" Lecture)
 
 
+## Versions used in the course
+- Terraform - 1.1.6
+- AWS provider - 4.2.0
+- VPC module - 3.12.0
+
+
 ## Commands used in the Course
 
 ### initialize
